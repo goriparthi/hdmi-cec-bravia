@@ -1,0 +1,2 @@
+echo "on 0" | cec-client -s
+echo "tx 4F:82:40:00" | cec-client -s
